@@ -1,0 +1,24 @@
+.peo {
+  list-style: none; 
+  padding: 0;
+}
+
+.peo li{
+    margin-bottom: 15px;
+}
+
+button {
+    color: tomato;
+    font-weight: bold;
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 80px;
+    margin-bottom: 15px;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
